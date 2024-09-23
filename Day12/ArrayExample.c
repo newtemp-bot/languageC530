@@ -1,10 +1,17 @@
 #include <stdio.h>
 void main()
 {
+    int ja[2];
+    char c[] = {'H','e','l','l','o'};
+    char ch[60] = "hello";
+    printf("%s",ch);
     int a[] = {8, 2, 3, 4, 1};
-    /* int[] a;
-    int [] a;
-    int []a; */
+    //ja[] = {10,20};//this give error
+    /* <-- For java */
+    /* int[] a1;
+    int [] a2;
+    int []a3; --> */
+
     /* a[0]=10;
     a[1]=20;
     a[2]=30; */
