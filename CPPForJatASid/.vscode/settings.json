@@ -1,6 +1,8 @@
 {
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
+        "*.ejs": "html",
+        ".fantomasignore": "ignore",
         "array": "cpp",
         "atomic": "cpp",
         "bit": "cpp",
@@ -51,6 +53,7 @@
         "streambuf": "cpp",
         "text_encoding": "cpp",
         "typeinfo": "cpp",
-        "variant": "cpp"
+        "variant": "cpp",
+        "fstream": "cpp"
     }
 }
